@@ -1,3 +1,3 @@
 FROM registry:2
 
-ADD ./busybox-bundle-registry.tar.gz /var/lib
+ADD ./registry.tar.bz2 /var/lib
