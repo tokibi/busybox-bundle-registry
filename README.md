@@ -9,6 +9,17 @@ docker run -d -p 5000:5000 tokibi/busybox-bundle-registry
 docker pull localhost:5000/busybox:latest
 ```
 
+### Existing tags
+
+These are attached sloppy.
+
+- latest
+- 2.0.0-pre
+- 1.0.1
+- 1.0.0
+- 0.1.0
+
+
 ## Build
 
 ```console
